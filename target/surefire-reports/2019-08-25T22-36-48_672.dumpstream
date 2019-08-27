@@ -1,0 +1,4 @@
+# Created at 2019-08-25T22:36:49.027
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Eclipse\inetBankingV1\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

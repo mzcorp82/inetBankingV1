@@ -1,0 +1,89 @@
+2019-08-21 21:09:13,066 [main] INFO ebanking - URL is opend
+2019-08-21 21:09:13,257 [main] INFO ebanking - Enter username
+2019-08-21 21:09:13,366 [main] INFO ebanking - Enter password
+2019-08-21 21:09:14,746 [main] INFO ebanking - Loging test passed
+2019-08-21 22:01:08,378 [main] INFO inetbanking - URL is opend
+2019-08-21 22:01:08,678 [main] INFO inetbanking - Enter username
+2019-08-21 22:01:08,794 [main] INFO inetbanking - Enter password
+2019-08-21 22:01:10,147 [main] INFO inetbanking - Loging test passed
+2019-08-22 23:56:22,905 [main] INFO inetbanking - URL is opend
+2019-08-22 23:56:23,089 [main] INFO inetbanking - Enter username
+2019-08-22 23:56:23,202 [main] INFO inetbanking - Enter password
+2019-08-22 23:56:24,439 [main] INFO inetbanking - Loging test passed
+2019-08-22 23:56:50,831 [main] INFO inetbanking - URL is opend
+2019-08-22 23:56:50,928 [main] INFO inetbanking - Enter username
+2019-08-22 23:56:50,968 [main] INFO inetbanking - Enter password
+2019-08-22 23:56:52,463 [main] INFO inetbanking - Loging test passed
+2019-08-23 00:01:49,869 [main] INFO inetbanking - URL is opend
+2019-08-23 00:01:49,965 [main] INFO inetbanking - Enter username
+2019-08-23 00:01:50,006 [main] INFO inetbanking - Enter password
+2019-08-23 00:01:51,229 [main] INFO inetbanking - Loging test passed
+2019-08-23 15:31:06,330 [main] INFO inetbanking - URL is opend
+2019-08-23 15:31:06,651 [main] INFO inetbanking - Enter username
+2019-08-23 15:31:06,773 [main] INFO inetbanking - Enter password
+2019-08-23 15:31:08,320 [main] INFO inetbanking - Loging test passed
+2019-08-23 22:32:02,306 [main] INFO inetbanking - URL is opend
+2019-08-23 22:32:02,539 [main] INFO inetbanking - Enter username
+2019-08-23 22:32:02,665 [main] INFO inetbanking - Enter password
+2019-08-24 17:22:30,624 [main] INFO inetbanking - URL is opend
+2019-08-24 17:22:30,810 [main] INFO inetbanking - Enter username
+2019-08-24 17:22:30,918 [main] INFO inetbanking - Enter password
+2019-08-24 17:22:32,071 [main] INFO inetbanking - Loging test passed
+2019-08-24 19:54:58,447 [main] INFO inetbanking - URL is opend
+2019-08-24 19:54:58,694 [main] INFO inetbanking - Enter username
+2019-08-24 19:54:58,805 [main] INFO inetbanking - Enter password
+2019-08-24 19:54:59,926 [main] INFO inetbanking - Loging test passed
+2019-08-24 19:55:10,530 [main] INFO inetbanking - The test hase started
+2019-08-24 19:55:10,535 [main] INFO inetbanking - Login inphormation
+2019-08-24 21:49:10,240 [main] INFO inetbanking - URL is opend
+2019-08-24 21:49:10,511 [main] INFO inetbanking - Enter username
+2019-08-24 21:49:10,648 [main] INFO inetbanking - Enter password
+2019-08-24 21:49:12,036 [main] INFO inetbanking - Loging test passed
+2019-08-24 21:49:22,813 [main] INFO inetbanking - The test hase started
+2019-08-24 21:49:22,815 [main] INFO inetbanking - Login inphormation
+2019-08-24 22:10:12,281 [main] INFO inetbanking - URL is opend
+2019-08-24 22:10:12,694 [main] INFO inetbanking - Enter username
+2019-08-24 22:10:12,806 [main] INFO inetbanking - Enter password
+2019-08-24 22:10:14,191 [main] INFO inetbanking - Loging test passed
+2019-08-24 22:10:24,722 [main] INFO inetbanking - The test hase started
+2019-08-24 22:10:24,722 [main] INFO inetbanking - Login inphormation
+2019-08-25 17:11:56,187 [main] INFO inetbanking - URL is opend
+2019-08-25 17:11:56,419 [main] INFO inetbanking - Enter username
+2019-08-25 17:11:56,544 [main] INFO inetbanking - Enter password
+2019-08-25 17:11:57,870 [main] INFO inetbanking - Loging test passed
+2019-08-25 17:12:08,091 [main] INFO inetbanking - The test hase started
+2019-08-25 17:12:08,092 [main] INFO inetbanking - Login inphormation
+2019-08-25 17:31:50,500 [main] INFO inetbanking - The test hase started
+2019-08-25 17:31:50,629 [main] INFO inetbanking - Login inphormation
+2019-08-25 17:39:11,069 [main] INFO inetbanking - The test hase started
+2019-08-25 17:39:11,145 [main] INFO inetbanking - Login inphormation
+2019-08-25 17:41:05,531 [main] INFO inetbanking - The test hase started
+2019-08-25 17:41:05,584 [main] INFO inetbanking - Login inphormation
+2019-08-25 17:43:00,552 [main] INFO inetbanking - The test hase started
+2019-08-25 17:43:00,617 [main] INFO inetbanking - Login inphormation
+2019-08-25 17:43:33,554 [main] INFO inetbanking - The test hase started
+2019-08-25 17:43:33,613 [main] INFO inetbanking - Login inphormation
+2019-08-25 17:44:35,134 [main] INFO inetbanking - The test hase started
+2019-08-25 17:44:35,191 [main] INFO inetbanking - Login inphormation
+2019-08-25 17:46:06,493 [main] INFO inetbanking - The test hase started
+2019-08-25 17:46:06,559 [main] INFO inetbanking - Login inphormation
+2019-08-25 17:49:33,141 [main] INFO inetbanking - The test hase started
+2019-08-25 17:49:33,210 [main] INFO inetbanking - Login inphormation
+2019-08-25 17:50:45,874 [main] INFO inetbanking - The test hase started
+2019-08-25 17:50:45,940 [main] INFO inetbanking - Login inphormation
+2019-08-25 17:50:59,265 [main] INFO inetbanking - New customer info
+2019-08-25 17:51:07,011 [main] INFO inetbanking - validation started.......
+2019-08-25 17:51:07,029 [main] INFO inetbanking - tast case failed........
+2019-08-25 22:37:05,827 [main] INFO inetbanking - URL is opend
+2019-08-25 22:37:06,126 [main] INFO inetbanking - Enter username
+2019-08-25 22:37:06,256 [main] INFO inetbanking - Enter password
+2019-08-25 22:37:07,401 [main] INFO inetbanking - Loging test passed
+2019-08-25 22:37:17,718 [main] INFO inetbanking - The test hase started
+2019-08-25 22:37:17,720 [main] INFO inetbanking - Login inphormation
+2019-08-25 22:37:22,665 [main] INFO inetbanking - New customer info
+2019-08-25 22:37:30,357 [main] INFO inetbanking - validation started.......
+2019-08-25 22:37:30,375 [main] INFO inetbanking - tast case failed........
+2019-08-26 18:40:05,295 [main] INFO inetbanking - URL is opend
+2019-08-26 18:40:05,507 [main] INFO inetbanking - Enter username
+2019-08-26 18:40:05,625 [main] INFO inetbanking - Enter password
+2019-08-26 18:40:07,236 [main] INFO inetbanking - Loging test passed
